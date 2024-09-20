@@ -1,0 +1,514 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:55:33] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:55:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:56:38] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:56:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:58:55] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 00:58:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 01:00:12] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2024 01:00:12] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request to 
+INFO:werkzeug:192.168.1.8 - - [18/Sep/2024 01:05:04] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:192.168.1.8 - - [18/Sep/2024 01:05:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request to 
+INFO:werkzeug:192.168.1.8 - - [18/Sep/2024 23:56:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:13] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:15] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:26] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:27] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:28] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:30] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:31] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:32] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:33] "GET / HTTP/1.1" 200 -
+INFO:root:Blocked entire range 127.0.0.0/24 after 10 requests
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:34] "GET / HTTP/1.1" 200 -
+INFO:root:Blocked request from 127.0.0.1 (range 127.0.0.0/24)
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:34] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1 (range 127.0.0.0/24)
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:02:35] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:24.478456
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:24] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:26.569210
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:26] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:26.890626
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:27] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:27.233594
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:27] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:27.618952
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:27] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:28.004665
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:28] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:28.398323
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:28] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:28.804693
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:29] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:29.316936
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:29] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:29.559186
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:29] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:29.916580
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:30] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:30.277305
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:30] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:30.668387
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:30] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:31.032578
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:31] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:31.416673
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:31] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:31.834123
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:32] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:32.290789
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:32] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:32.712951
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:32] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:33.114136
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:33] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:33.537545
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:33] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:34.081756
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:34] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:34.339033
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:34] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:34.747758
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:34] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:35.165215
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:35] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:35.361072
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:35] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:35.781973
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:35] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:36.197467
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:36] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:36.579691
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:36] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:37.054881
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:37] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:37.456537
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:37] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:37.860654
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:38] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:38.265698
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:38] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:38.684576
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:38] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:39.143075
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:39] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:39.581895
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:39] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:40.125014
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:40] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:40.444590
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:40] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:40.945426
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:41] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:41.341120
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:41] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:41.734012
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:41] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:42.165859
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:42] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:42.577232
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:42] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:43.013053
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:43] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:43.441138
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:43] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:43.861709
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:44] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:44.277958
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:44] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:44.545738
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:44] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:44.956329
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:45] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:45.286083
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:45] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:45.808751
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:45] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:46.045936
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:46] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:46.439486
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:46] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:46.715877
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:46] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:46.915260
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:47] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:47.144186
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:47] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:47.376955
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:47] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:47.626102
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:47] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:47.880007
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:48] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:48.146932
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:48] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:48.408079
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:48] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:48.660022
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:48] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:48.941629
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:49] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:49.451950
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:49] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:49.734394
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:49] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:49.982459
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:50] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:50.221635
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:50] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:50.465344
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:50] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:50.698415
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:50] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:50.981719
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:51] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:51.216327
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:51] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:51.688085
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:51] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:51.965171
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:52] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:52.288817
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:52] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:52.722091
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:52] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:52.984517
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:53] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:53.232549
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:53] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:53.499406
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:53] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:53.744473
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:53] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:53.990173
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:54] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:54.546549
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:54] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:54.823236
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:54] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:55.350384
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:55] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:57.007983
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:57] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:57.277256
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:57] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:57.569794
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:57] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:57.816579
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:57] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:58.083683
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:58] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:58.361006
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:58] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:58.598111
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:58] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:58.859781
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:58] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:59.154900
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:59] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:59.400522
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:59] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:21:59.685226
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:21:59] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:00.006612
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:00] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:00.278994
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:00] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:00.590375
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:00] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:00.938317
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:01] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:01.183971
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:01] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:01.521898
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:01] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:01.785779
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:01] "GET / HTTP/1.1" 200 -
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:22:02.056753
+INFO:root:Blocked IP 127.0.0.1 after exceeding 100 requests in 1 minute
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "GET / HTTP/1.1" 200 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:22:02] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:29:22.155116
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:29:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\firewall\\ping.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\firewall\\ping.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Desktop\\firewall\\ping.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request from 127.0.0.1 at 2024-09-19 00:32:43.377804
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 00:32:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 17:56:11] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 17:56:12] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:00] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:33] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:34] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:35] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:35] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:36] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:37] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:38] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:39] "GET / HTTP/1.1" 200 -
+INFO:root:Blocked entire range 127.0.0.0/24 after 10 requests
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:39] "GET / HTTP/1.1" 200 -
+INFO:root:Blocked request from 127.0.0.1 (range 127.0.0.0/24)
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:40] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1 (range 127.0.0.0/24)
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:03:40] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 19:02:43] "[31m[1mGET / HTTP/1.1[0m" 403 -
+INFO:root:Blocked request from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 19:02:44] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 403 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.8:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 19:03:36] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 19:03:37] "GET / HTTP/1.1" 200 -
+INFO:root:Request to 
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 19:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-405-124
